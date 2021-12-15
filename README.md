@@ -8,6 +8,7 @@ git push
 
 git pull
 
+## Juntar dos ramas
 git merge
 
 ## Crear una nueva Rama
